@@ -18,5 +18,5 @@
 
    Version of MongoDB Connector for Apache Kafka installed:
 
-   {"class":"com.mongodb.kafka.connect.MongoSinkConnector","type":"sink","version":"1.8.0"}
-   {"class":"com.mongodb.kafka.connect.MongoSourceConnector","type":"source","version":"1.8.0"}
+   {"class":"com.mongodb.kafka.connect.MongoSinkConnector","type":"sink","version":"{+connector-version+}"}
+   {"class":"com.mongodb.kafka.connect.MongoSourceConnector","type":"source","version":"{+connector-version+}"}
